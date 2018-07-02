@@ -60,6 +60,12 @@ h3,h4,h5 {
 .text-yellow {
   color: #EDB85E;
 }
+.text-large {
+  font-size: 1.5em;
+}
+.text-extra-large {
+  font-size: 3em;
+}
 .icon-large {
   font-size: 1.8em;
   color: white;
