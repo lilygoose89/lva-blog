@@ -14,6 +14,10 @@ img {
   margin: 0;
   padding: 0;
 }
+[class*=col-], [class*=col_], [class~=col] {
+  margin: 0;
+  padding: 0;
+}
 
 @media all and (max-width:1024px) {
 
@@ -47,18 +51,29 @@ h3,h4,h5 {
 .text-right {
   text-align: right;
 }
+.text-shadow {
+  text-shadow: 4px 2px 6px rgba(45, 42, 50, 0.8);
+}
 .text-white {
   color: white;
+}
+.text-yellow {
+  color: #EDB85E;
 }
 .icon-large {
   font-size: 1.8em;
   color: white;
 }
+@media all and (max-width:576px) {
+  .text-center-mobile {
+  text-align: center;
+  }
+}
 /* link and button styles ----------------------------------------- */
 .button-main {
   border: 2px solid #EDB85E !important;
   font-family: 'Vidaloka', sans-serif;
-  padding: 0.6rem 3rem;
+  padding: 0.6em 3em;
   color: #EDB85E;
   background-color: white;
   /* font-size: 0.875rem; */
@@ -66,59 +81,107 @@ h3,h4,h5 {
   border-radius: 0 !important;
 }
 .button-main:hover {
-  font-family: 'Vidaloka', sans-serif;
   border: 2px solid #eec36e;
   background-color: #edb85e;
   color: white;
-  padding: 0.6rem 3rem;
+  padding: 0.6em 3em;
+  -webkit-transition: background-color 0.3s ease-out;
+  -moz-transition: background-color 0.3s ease-out;
+  -o-transition: background-color 0.3s ease-out;
+  transition: background-color 0.3s ease-out;
+}
+.button-blog {
+  width: 100%;
+  font-family: 'Vidaloka', sans-serif;
+  padding: 0.6em 3em;
+  color: #EDB85E;
+  background-color: white;
+  text-transform: uppercase;
+  border: none !important;
+  border-top: 2px solid #EDB85E !important;
+}
+.button-blog:hover {
+  border: 2px solid #eec36e;
+  background-color: #edb85e;
+  color: white;
+  padding: 0.6em 3em;
+  -webkit-transition: background-color 0.3s ease-out;
+  -moz-transition: background-color 0.3s ease-out;
+  -o-transition: background-color 0.3s ease-out;
+  transition: background-color 0.3s ease-out;
+}
+.button-shop {
+  margin-top: 5px;
+  border: 2px solid white;
+  font-family: 'Vidaloka', sans-serif;
+  font-size: 0.7em;
+  padding: 0.6em 3em;
+  color: white;
+  background-color: transparent;
+  text-transform: uppercase;
+}
+.button-shop:hover {
+  border: 2px solid #eec36e;
+  background-color: #edb85e;
+  color: black;
+  padding: 0.6em 3em;
   -webkit-transition: background-color 0.3s ease-out;
   -moz-transition: background-color 0.3s ease-out;
   -o-transition: background-color 0.3s ease-out;
   transition: background-color 0.3s ease-out;
 }
 /* container styles ----------------------------------------- */
-.flowers-behind {
-  z-index: -2;
-  height: 80vh;
+.bg-yellow {
+  background-color: #EDB85E;
 }
-.signup-above {
-  position: absolute;
-  z-index: 2;
-  top: 40vh;
+.bg-white {
+  background-color: white;
 }
-.signup-container {
-  width: 100vw;
-  padding: 0 25%;
-}
-.line:after {
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 35%;
-  margin-right: -20%;
-  margin-left: 40%;
-  content: "";
-  height: 3px;
-  background: linear-gradient(to right, rgba(0,0,0,0) 0%,#EDB85E 100%,rgba(0,0,0,0) 10%);
-}
-.outline:before {
-  top: -3px;
-  left: -3px;
-  right: -3px;
-  bottom: -3px;
-  background-image: -webkit-radial-gradient(right, 110% 190%, #EDB85E, transparent);
-  z-index: 1;
-}
-.outline:after {
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  background: white;
-  z-index: 2;
+.shadow {
+  -moz-box-shadow: 3px 3px 5px 6px #ccc;
+  -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+  box-shadow: 5px 6px 20px 7px #ccc;
 }
 /* header and nav styles ----------------------------------------- */
-
+nav {
+  position: absolute;
+  width: 100vw;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 0.9em;
+}
+nav a:hover {
+  color: #EDB85E;
+}
+.header-logo {
+  width: 150px;
+}
+.header-logo:hover {
+  opacity: 0.7;
+}
+.header-img {
+  background-image:url("/images/blog-header.jpg");
+  height: 100vh;
+  background-color: #EDB85E;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  overflow-y: hidden;
+}
+.mobile-menu {
+  display: none;
+}
+@media all and (max-width:768px) {
+  .hide-in-mobile {
+    display: none;
+  }
+  .mobile-menu {
+    display: block;
+  }
+}
 /* footer styles ----------------------------------------- */
 .footer-padding {
   padding: 0 5%;
@@ -148,7 +211,6 @@ footer a {
 footer a:hover, a:focus {
   opacity: 0.6;
 }
-
 .icon-footer:after {
   content: "";
   height: 1px;
@@ -159,7 +221,67 @@ footer a:hover, a:focus {
   margin-top: 5px;
 }
 /* homepage styles ----------------------------------------- */
-
+.blog-top-img {
+  height: 350px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  overflow-y: hidden;
+}
+.blog-list-img {
+  height: 250px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  overflow-y: hidden;
+}
+.section-padding {
+  padding: 5% 20%;
+}
+.flowers-behind {
+  position: relative;
+  z-index: -2;
+  height: 85vh;
+  top: 4vh;
+}
+.signup-above {
+  position: relative;
+  z-index: 2;
+  height: 0;
+  top: -80vh;
+}
+.signup-container {
+  width: 100vw;
+  padding: 0 25%;
+}
+@media all and (max-width:768px) {
+  .section-padding {
+    padding: 10% 10%;
+  }
+  .signup-container {
+    padding: 0 15%;
+  }
+  .flowers-behind {
+    height: 90vh;
+  }
+  .signup-above {
+    top: -85vh;
+  }
+}
+@media all and (max-width:576px) {
+  .signup-container {
+    padding: 0 10%;
+  }
+  .flowers-behind {
+    height: 120vh;
+    top: 6vh;
+  }
+  .signup-above {
+    top: -110vh;
+  }
+}
 /* post styles ----------------------------------------- */
 
 /* form styles ----------------------------------------- */

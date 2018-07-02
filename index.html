@@ -4,24 +4,47 @@ title:
 description:
 keywords:
 ---
-<section>
-  <h1>{{page.title}}</h1>
-  {% for posts in site.posts %}
-  <div>
-    <h3>{{posts.title}}</h3>
-    <h6>{{ posts.date | date: "%b %-d, %Y" }}</h6>
-    <p>{{posts.excerpt}}</p>
-    <a href="{{posts.url}}"><button class="button-main">Read More</button></a>
+<header class="header-img grid">
+  <div class="col-6_sm-0">
+
+  </div>
+  <div class="col-6_sm-12 text-right margin-top-l pad-right-s">
+    <h1 class="text-white text-shadow">Leah von Ahlburg | Blog</h1>
+    <span class="line"></span>
+    <h3 class="text-yellow text-shadow">News, Updates and Inspiration</h3>
+  </div>
+</header>
+<section class="section-padding">
+  {% for posts in site.posts reversed limit:1 %}
+  <div class="shadow">
+    <div style="background-image: url('{{posts.image}}')" class="blog-top-img"></div>
+    <div class="pad-right-s pad-left-s">
+      <h3>{{posts.title}}</h3>
+      <h6>Published on {{ posts.date | date: "%b %-d, %Y" }}</h6>
+      <p>{{posts.excerpt}}</p>
+    </div>
+    <a href="{{posts.url}}"><button class="button-blog">Read More</button></a>
   </div>
   {% endfor %}
-  <a href="/blog"><button class="button-main">Go back to main blog page</button></a>
+  <div class="grid-spaceBetween margin-top-xs">
+    {% for posts in site.posts limit:4 offset:1 %}
+    <div class="col-5_md-12 margin-top-s shadow">
+      <div style="background-image: url('{{posts.image}}')" class="blog-list-img"></div>
+      <div class="pad-right-s pad-left-s">
+        <h3>{{posts.title}}</h3>
+        <h6>Published on {{ posts.date | date: "%b %-d, %Y" }}</h6>
+      </div>
+      <a href="{{posts.url}}"><button class="button-blog">Read More</button></a>
+    </div>
+    {% endfor %}
+  </div>
 </section>
 <section class="text-center">
   <div class="grid-spaceBetween-bottom flowers-behind">
-    <div>
+    <div class="col-3_md-5_sm-6 text-left">
       <img src="/images/overview-before-footer-flower.jpg"/>
     </div>
-    <div>
+    <div class="col-3 text-right">
       <img src="/images/overview-before-footer-flower2.jpg"/>
     </div>
   </div>
@@ -31,7 +54,6 @@ keywords:
       <p class="strong pad-bottom-s">
           Get inspired by our creators and receive the latest style updates and special promotions, straight in your inbox.
       </p>
-
       {% include email-signup.html %}
     </div>
   </div>
