@@ -1,0 +1,307 @@
+/* universal styles ----------------------------------------- */
+* {
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 200;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+/* layout ----------------------------------------- */
+/* add because gridlex "bumps" the page layout beyond 100vw and causes "wiggle" in mobile */
+[class*=grid-],[class*=grid_],[class~=grid] {
+  margin: 0;
+  padding: 0;
+}
+
+@media all and (max-width:1024px) {
+
+}
+@media all and (max-width:768px) {
+
+}
+@media all and (max-width:576px) {
+
+}
+
+/* typography ----------------------------------------- */
+h1,h2 {
+  font-family: 'Vidaloka', serif;
+  font-size: 2em;
+  text-transform: uppercase;
+}
+h3,h4,h5 {
+  text-transform: uppercase;
+  font-weight: 400;
+}
+.strong {
+  font-family: 'Vidaloka', serif;
+  font-size: 1.2em;
+  color: #EDB85E;
+  font-weight: bolder;
+}
+.text-center {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}
+.text-white {
+  color: white;
+}
+.icon-large {
+  font-size: 1.8em;
+  color: white;
+}
+/* link and button styles ----------------------------------------- */
+.button-main {
+  border: 2px solid #EDB85E !important;
+  font-family: 'Vidaloka', sans-serif;
+  padding: 0.6rem 3rem;
+  color: #EDB85E;
+  background-color: white;
+  /* font-size: 0.875rem; */
+  text-transform: uppercase;
+  border-radius: 0 !important;
+}
+.button-main:hover {
+  font-family: 'Vidaloka', sans-serif;
+  border: 2px solid #eec36e;
+  background-color: #edb85e;
+  color: white;
+  padding: 0.6rem 3rem;
+  -webkit-transition: background-color 0.3s ease-out;
+  -moz-transition: background-color 0.3s ease-out;
+  -o-transition: background-color 0.3s ease-out;
+  transition: background-color 0.3s ease-out;
+}
+/* container styles ----------------------------------------- */
+.flowers-behind {
+  z-index: -2;
+  height: 80vh;
+}
+.signup-above {
+  position: absolute;
+  z-index: 2;
+  top: 40vh;
+}
+.signup-container {
+  width: 100vw;
+  padding: 0 25%;
+}
+.line:after {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 35%;
+  margin-right: -20%;
+  margin-left: 40%;
+  content: "";
+  height: 3px;
+  background: linear-gradient(to right, rgba(0,0,0,0) 0%,#EDB85E 100%,rgba(0,0,0,0) 10%);
+}
+.outline:before {
+  top: -3px;
+  left: -3px;
+  right: -3px;
+  bottom: -3px;
+  background-image: -webkit-radial-gradient(right, 110% 190%, #EDB85E, transparent);
+  z-index: 1;
+}
+.outline:after {
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background: white;
+  z-index: 2;
+}
+/* header and nav styles ----------------------------------------- */
+
+/* footer styles ----------------------------------------- */
+.footer-padding {
+  padding: 0 5%;
+}
+.footer-img {
+  background-image:url("/images/lva-Footer_1920x840.jpg");
+  background-color:#404042;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  overflow-y: hidden;
+}
+footer h3 {
+  color: #f5f5f5;
+  font-weight: 200;
+}
+footer p {
+  color: #f5f5f5;
+  font-weight: 200;
+  font-size: 0.95em;
+}
+footer a {
+  color: #f5f5f5;
+  text-decoration: none;
+  font-size: 0.95em;
+}
+footer a:hover, a:focus {
+  opacity: 0.6;
+}
+
+.icon-footer:after {
+  content: "";
+  height: 1px;
+  background: linear-gradient(to right, rgba(0,0,0,0) 0%,#EDB85E 50%,rgba(0,0,0,0) 100%);
+  display: block;
+  margin: 0 30%;
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+/* homepage styles ----------------------------------------- */
+
+/* post styles ----------------------------------------- */
+
+/* form styles ----------------------------------------- */
+input {
+  border: none !important;
+  border-bottom: 1px solid black !important;
+  outline: none;
+  border-radius: 0 !important;
+}
+input:focus {
+  border-bottom: 1px solid #EDB85E !important;
+}
+/* helpers ----------------------------------------- */
+
+/* PADDING/MARGINS */
+.container-center {
+  margin: 0 auto !important;
+}
+.pad-all-xs {
+  padding: 1%;
+}
+.pad-all-s {
+  padding: 5%;
+}
+.pad-all-m {
+  padding: 10%;
+}
+.pad-all-l {
+  padding: 20%;
+}
+.pad-top-xs {
+  padding-top: 1%;
+}
+.pad-top-s {
+  padding-top: 5%;
+}
+.pad-top-m {
+  padding-top: 10%;
+}
+.pad-top-l {
+  padding-top: 20%;
+}
+.pad-right-xs {
+  padding-right: 1%;
+}
+.pad-right-s {
+  padding-right: 5%;
+}
+.pad-right-m {
+  padding-right: 10%;
+}
+.pad-right-l {
+  padding-right: 20%;
+}
+.pad-bottom-xs {
+  padding-bottom: 1%;
+}
+.pad-bottom-s {
+  padding-bottom: 5%;
+}
+.pad-bottom-m {
+  padding-bottom: 10%;
+}
+.pad-bottom-l {
+  padding-bottom: 20%;
+}
+.pad-left-xs {
+  padding-left: 1%;
+}
+.pad-left-s {
+  padding-left: 5%;
+}
+.pad-left-m {
+  padding-left: 10%;
+}
+.pad-left-l {
+  padding-left: 20%;
+}
+.margin-all-xs {
+  margin: 1%
+}
+.margin-all-s {
+  margin: 5%
+}
+.margin-all-m {
+  margin: 10%
+}
+.margin-all-l {
+  margin: 20%
+}
+.margin-top-xs {
+  margin-top: 1%
+}
+.margin-top-s {
+  margin-top: 5%
+}
+.margin-top-m {
+  margin-top: 10%
+}
+.margin-top-l {
+  margin-top: 20%
+}
+.margin-right-xs {
+  margin-right: 1%
+}
+.margin-right-s {
+  margin-right: 5%
+}
+.margin-right-m {
+  margin-right: 10%
+}
+.margin-right-l {
+  margin-right: 20%
+}
+.margin-bottom-xs {
+  margin-bottom: 1%
+}
+.margin-bottom-s {
+  margin-bottom: 5%
+}
+.margin-bottom-m {
+  margin-bottom: 10%
+}
+.margin-bottom-l {
+  margin-bottom: 20%
+}
+.margin-left-xs {
+  margin-left: 1%
+}
+.margin-left-s {
+  margin-left: 5%
+}
+.margin-left-m {
+  margin-left: 10%
+}
+.margin-left-l {
+  margin-left: 20%
+}
+/* POSITION */
+.position-rel {
+  position: relative;
+}
+.position-abs {
+  position: absolute;
+}
