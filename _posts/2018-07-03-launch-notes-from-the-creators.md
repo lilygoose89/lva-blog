@@ -19,7 +19,7 @@ _excerpt_separator: <!-- excerpt -->
 layout: post
 ---
 
-<br>We're excited to introduce the full Leah von Ahlburg 2018 Resort Collection, now available exclusively through our online store. This journey has been one of creativity and growth, and we hope our ethos helps you to express your authentic self, joyfully and fearlessly.
+<br>We're excited to introduce the full Leah von Ahlburg 2018 Resort Collection, now available exclusively through our online store. This journey has been one of creativity and growth, and we hope our fashion and ethos helps you to express your authentic self, joyfully and fearlessly.
 
 <!-- excerpt -->
 
