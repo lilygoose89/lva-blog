@@ -19,8 +19,7 @@ _excerpt_separator: <!-- excerpt -->
 layout: post
 ---
 
-<br>We're excited to introduce the full Leah von Ahlburg 2018 Resort Collection, now available exclusively through our online store. This journey has been one of creativity and growth, and we hope our fashion and ethos helps you to express your authentic self, joyfully and fearlessly.
-<!--base32-41jqgrv5e9r7880-base32-->
+<br>We're excited to introduce the full Leah von Ahlburg 2018 Resort Collection, now available exclusively through our online store. This journey has been one of creativity and growth, and we hope our fashion and ethos helps you to express your authentic self, joyfully and fearlessly. <!--base32-c9gq6t9k68pk8cbae5kq4xhncmwq4dtr70r2urk1edjk6cg-base32-->
 
 > When I can be inspired and be led by my dreams, my fear of failure stops becoming an obstacle <cite>&ndash; Jane Vaughan</cite>
 
@@ -28,9 +27,9 @@ layout: post
 
 **JANE:** &nbsp; &nbsp;Coming out of retirement at 67 to create something out of nothing with me, I knew I’d found a friend in Leah. A friend who could dream with me. At the beginning of this effort, I was caught up in the goal of achieving - a hangover from my past. &nbsp;This process of taking our designs from concept to launch, however, has taught me that it is more important to led and motivated by the dream, not the achievement. When I can be inspired and be led by my dreams, my fear of failure stops becoming an obstacle.
 
-> “Tou est permis” as the French say, anything goes! <cite>&ndash; Leah von Ahlburg</cite>
+> “Tout est permis” as the French say, anything goes! <cite>&ndash; Leah von Ahlburg</cite>
 
-**LEAH:** &nbsp; &nbsp;I wanted my designs to be fun, colorful, comfortable, casual and elegant. But more importantly, to inspire a freedom of spirit. &nbsp;The days of being told what to wear and how to wear it are long gone. “Tou est permis” as the French say, anything goes! This way lies freedom. When I was young, fashion was all about what was trendy for the day, and individuality was rare.
+**LEAH:** &nbsp; &nbsp;I wanted my designs to be fun, colorful, comfortable, casual and elegant. But more importantly, to inspire a freedom of spirit. &nbsp;The days of being told what to wear and how to wear it are long gone. “Tout est permis” as the French say, anything goes! This way lies freedom. When I was young, fashion was all about what was trendy for the day, and individuality was rare.
 
 **JANE:** &nbsp; &nbsp;Freedom and security don’t have to be mutually exclusive. On a personal level, our brand invites you to be free to express yourself and feel secure in that expression. &nbsp;Leah von Ahlburg Collection is also about personal evolution, creativity, rising above the mire that keeps us stuck and the rebirth of our imagination.
 
