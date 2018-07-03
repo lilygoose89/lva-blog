@@ -21,7 +21,7 @@ layout: post
 
 <br>We're excited to introduce the full Leah von Ahlburg 2018 Resort Collection, now available exclusively through our online store. This journey has been one of creativity and growth, and we hope our ethos helps you to express your authentic self, joyfully and fearlessly.
 
-<!– excerpt –>
+<!-- excerpt -->
 
 **LEAH:**     When Jane asked me to create Leah von Ahlburg Collection, I thought about it for five minutes before saying, “why not?” Our individual strengths and abilities have a synergy that cannot be ignored, and I knew we were up to the challenge of creating a fashion brand. So here we are, launching the first collection with a lot of hard work and love from everyone who worked tirelessly to make this happen.
 
