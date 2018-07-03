@@ -35,7 +35,7 @@ layout: post
 
 **LEAH:**    Fashion should not be hard work. You should be able to throw a few good pieces in a bag, pull it out at your destination, put it on with one or two accessories and walk out the door with no fuss.  That is one of the reasons I put fringing on some of the kaftans not only gives them a tribal feel but also eliminates the need for accessorizing your neck. A pair of my earrings with a couple of bracelets and you can be out the door.
 
-<br><br><br>
+<br>
 
 Click to explore, or save this pin for later!
 
