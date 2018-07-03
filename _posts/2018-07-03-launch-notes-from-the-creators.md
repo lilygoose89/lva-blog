@@ -37,5 +37,7 @@ layout: post
 
 <br><br><br>
 
+Click to explore, or save this pin for later!
+
 [![LVA New Collection - Woman wearing colorful kaftan on the beach](/images/lvanewcollectionbeachpin.jpg)](https://leahvonahlburg.com/collections)
 
