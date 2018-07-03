@@ -309,11 +309,18 @@ hr {
   margin: 2em 0;
 }
 /* form styles ----------------------------------------- */
+label {
+  width: 100%;
+  line-height: 2.5em;
+}
 input {
+  width: 100%;
+  padding: 8px 0;
+  text-indent: 2%;
   border: none !important;
   border-bottom: 1px solid black !important;
   outline: none;
-  border-radius: 0 !important;
+  margin-bottom: 1.5em;
 }
 input:focus {
   border-bottom: 1px solid #EDB85E !important;
