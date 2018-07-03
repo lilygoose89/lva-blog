@@ -15,14 +15,13 @@ tags:
 keywords: >-
   Leah von Ahlburg Collection, Fashion Inspiration, Brand Story, Jane Vaughan,
   Leah von Ahlburg
-excerpt_separator: <!-- excerpt -->
-published: true
+_excerpt_separator: <!-- excerpt -->
 layout: post
 ---
 
 <br>We're excited to introduce the full Leah von Ahlburg 2018 Resort Collection, now available exclusively through our online store. This journey has been one of creativity and growth, and we hope our ethos helps you to express your authentic self, joyfully and fearlessly.
 
-&lt;!– excerpt –&gt;
+<!– excerpt –>
 
 **LEAH:**     When Jane asked me to create Leah von Ahlburg Collection, I thought about it for five minutes before saying, “why not?” Our individual strengths and abilities have a synergy that cannot be ignored, and I knew we were up to the challenge of creating a fashion brand. So here we are, launching the first collection with a lot of hard work and love from everyone who worked tirelessly to make this happen.
 
@@ -36,6 +35,7 @@ layout: post
 
 **LEAH:**    Fashion should not be hard work. You should be able to throw a few good pieces in a bag, pull it out at your destination, put it on with one or two accessories and walk out the door with no fuss.  That is one of the reasons I put fringing on some of the kaftans not only gives them a tribal feel but also eliminates the need for accessorizing your neck. A pair of my earrings with a couple of bracelets and you can be out the door.
 
- 
+<br><br><br>
 
-<br>
+[![LVA New Collection - Woman wearing colorful kaftan on the beach](/images/lvanewcollectionbeachpin.jpg)](https://leahvonahlburg.com/collections)
+
