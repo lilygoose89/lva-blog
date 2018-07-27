@@ -170,7 +170,7 @@ nav a:hover {
 }
 .header-img {
   background-image:url("/images/blog-header.jpg");
-  height: 100vh;
+  height: 80vh;
   background-color: #EDB85E;
   background-repeat: no-repeat;
   background-size: cover;
