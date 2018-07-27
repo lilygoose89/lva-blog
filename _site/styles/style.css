@@ -68,7 +68,6 @@ h3,h4,h5 {350
 }
 .icon-large {
   font-size: 1.8em;
-  color: white;
 }
 @media all and (max-width:576px) {
   .text-center-mobile {
@@ -76,12 +75,20 @@ h3,h4,h5 {350
   }
 }
 /* link and button styles ----------------------------------------- */
+a {
+  text-decoration: none;
+  color: #EDB85E;
+}
+/* a:hover {
+  text-decoration: underline;
+  color: inherit;
+} */
 .button-main {
   border: 2px solid #EDB85E !important;
   font-family: 'Vidaloka', sans-serif;
   padding: 0.6em 3em;
   color: #EDB85E;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.2);
   /* font-size: 0.875rem; */
   text-transform: uppercase;
   border-radius: 0 !important;
@@ -101,7 +108,7 @@ h3,h4,h5 {350
   font-family: 'Vidaloka', sans-serif;
   padding: 0.6em 3em;
   color: #EDB85E;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.2);
   text-transform: uppercase;
   border: none !important;
   border-top: 2px solid #EDB85E !important;
@@ -140,9 +147,20 @@ h3,h4,h5 {350
 .bg-yellow {
   background-color: #EDB85E;
 }
+.bg-yellow-trans {
+  background-color: rgba(237, 184, 94, 0.8);
+}
 .bg-white {
   background-color: white;
 }
+.bg-white-trans {
+  background-color: rgba(255, 255, 255, 0.9);
+}
+.bg-whitesmoke {
+  background-color: whitesmoke;
+}
+
+
 .shadow {
   -moz-box-shadow: 3px 3px 5px 6px #ccc;
   -webkit-box-shadow: 3px 3px 5px 6px #ccc;
@@ -169,9 +187,7 @@ nav a:hover {
   opacity: 0.7;
 }
 .header-img {
-  background-image:url("/images/blog-header.jpg");
   height: 100vh;
-  background-color: #EDB85E;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -227,6 +243,9 @@ footer a:hover, a:focus {
   margin-top: 5px;
 }
 /* homepage styles ----------------------------------------- */
+.section-padding {
+  padding: 2.5% 20%;
+}
 .blog-top-img {
   height: 500px;
   width: 100%;
@@ -243,9 +262,18 @@ footer a:hover, a:focus {
   background-position: center;
   overflow-y: hidden;
 }
-.section-padding {
-  padding: 5% 20%;
+.title-container {
+  /* margin: 0 auto; */
+  height: 32vh;
+  width: 60vw;
+  position: absolute;
+  top: 68vh;
+  right: 20vw;
 }
+/* .post-container {
+  position: relative;
+  top: -6vh;
+} */
 .flowers-behind {
   position: relative;
   z-index: -2;
@@ -256,7 +284,7 @@ footer a:hover, a:focus {
   position: relative;
   z-index: 2;
   height: 0;
-  top: -80vh;
+  top: -75vh;
 }
 .signup-container {
   width: 100vw;
@@ -265,6 +293,10 @@ footer a:hover, a:focus {
 @media all and (max-width:768px) {
   .section-padding {
     padding: 10% 10%;
+  }
+  .title-container {
+    width: 80vw;
+    right: 10vw;
   }
   .signup-container {
     padding: 0 15%;
@@ -277,6 +309,10 @@ footer a:hover, a:focus {
   }
 }
 @media all and (max-width:576px) {
+  .title-container {
+    width: 100vw;
+    right: 0;
+  }
   .signup-container {
     padding: 0 10%;
   }
