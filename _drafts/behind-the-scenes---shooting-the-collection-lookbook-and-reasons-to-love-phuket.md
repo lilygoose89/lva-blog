@@ -7,20 +7,25 @@ description: >-
   came to choosing a shoot location for our collection lookbook, we picked a
   place - and people! - we knew we’d have some fun with. Here are our favorite
   shots and behind the scenes tidbits from our Phuket, Thailand photoshoot.
-image: /images/LeahvonAhlburg-FINAL-Phuket-168.jpg
-image-alt: beautiful woman wearing colorful printed kaftan on the beach
+image: /uploads/leahvonahlburg-shootingphuketlookbook-1.jpeg
+image-alt: clear turquoise waters and sandy beach phuket thailand
 author: Lily Bruns
 tags:
   - trends
   - summer fashion
   - resort fashion
-  - kaftans
-  - tassel earrings
-  - palazzo pants
+  - Lookbook
+  - Beach
+  - Photoshoot
+  - Behind the Scenes
+  - Leah
+  - Catalia
+  - Day
+  - Phuket
 keywords: >-
-  Leah von Ahlburg Collection, Fashion Inspiration, summer what to wear, summer
-  style, summer 2018 trends, kaftans, tassel earrings, palazzo pants, what to
-  pack for the beach, holiday summer style
+  Leah von Ahlburg Collection, Fashion Inspiration, beach holiday essentials,
+  photoshoot in phuket, photoshoot behind the scenes, phuket beach, women's
+  beach wear, resort wear collection
 _excerpt_separator: <!-- excerpt -->
 layout: post
 ---
