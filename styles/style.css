@@ -251,7 +251,7 @@ footer a:hover, a:focus {
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
+  /*background-position: center;*/
   overflow-y: hidden;
 }
 .blog-list-img {
@@ -259,7 +259,7 @@ footer a:hover, a:focus {
   width: 100%;
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
+  /*background-position: center;*/
   overflow-y: hidden;
 }
 .title-container {
