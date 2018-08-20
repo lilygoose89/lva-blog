@@ -1,7 +1,5 @@
 ---
-title: >-
-  Behind the Scenes - Shooting the Collection Lookbook and Reasons to Love
-  Phuket
+title: Behind the Scenes - Shooting the Collection Lookbook in Phuket
 description: >-
   With this new fashion label, really, we’re just doing what we love, so when it
   came to choosing a shoot location for our collection lookbook, we picked a
