@@ -56,7 +56,3 @@ The best part about palazzo pants is that they’re also comfortable to wear and
 &nbsp;
 
 Your summer vacation is all about letting loose and enjoying yourself, and your wardrobe should help you do that. This summer, try out a trend or two, but don’t forget to do you.
-
----
-
-Save this pin for later!
