@@ -42,6 +42,9 @@ Eventually, someone would make me an offer I thought I couldn't refuse and I was
 **B:** Deep inside, I think I'd always known I wasn't being true to myself, but I was caught in a trap. From the moment my uncle gave me an old Leica camera with ground glass lenses at age 11, I wanted to be a photographer. My father also had a National Geographic subscription, and I would rush home from school, sit cross-legged on the floor, and bury my nose in those magazines.
 
 > "From the moment my uncle gave me an old Leica camera with ground glass lenses at age 11, I wanted to be a photographer."
+>
+>
+> – Barbara Weibel
 
 My parents, however, expected me to graduate college and become a professional. Turns out I hated college and I left before the end of the first semester. I quickly got a job though, and took on financial responsibilities like rent, utilities, transportation and the dream faded into the background. I spent the next 36 years becoming a successful businesswoman, but I was miserable and I had no direction besides work.
 
@@ -52,6 +55,11 @@ Around 2001, my health began to decline. Unable to determine what was wrong with
 **LVA:** *That’s an incredible leap to go from battling for your health to braving the world. Not everyone would have the fortitude to do that. Do you have any advice for others who are scared to make the leap?*
 
 **B:** I believe that we create our own reality, and I'm living proof of that concept. Time and again I have recreated myself by visualizing what I wanted my life to be. I always tell people that if they can visualize the life they want down to the tiniest detail, they will create that life.
+
+> "I always tell people that if they can visualize the life they want down to the tiniest detail, they will create that life."
+>
+>
+> – Barbara Weibel
 
 **LVA:** *And what is it that motivates you to travel and explore the world?*
 
@@ -78,12 +86,18 @@ During my corporate years, I earned a good income, but I was miserable. When I w
 This drove home the truth of the proverb that money can't buy happiness. I now know that true happiness comes from within and that we don't need even a fraction of the "stuff" we acquire. I've rejected the culture of capitalism that traps us in the never-ending cycle of work-earn-buy that is so prevalent in America today.
 
 > "Money can't buy happiness. I now know that true happiness comes from within and that we don't need even a fraction of the "stuff" we acquire."
+>
+>
+> – Barbara Weibel
 
 **LVA:** *Any other parting words of wisdom? What’s your personal philosophy?*
 
 **B:** I strive to remain entirely present and mindful in every moment of my life. I believe that most people are good, and that there is way too much fear of those who are seen as "others." I believe that the better we get to know one another, the less likely we'll to want to kill one another. I try to live without judgment and accept every person unconditionally. I don't always entirely succeed, but that's because I'm human. The point is that I try - always.
 
 > " I try to live without judgment and accept every person unconditionally. I don't always entirely succeed, but that's because I'm human. The point is that I try - always."
+>
+>
+> – Barbara Weibel
 
 LVA: Thanks for your time and your candor Barbara! It’s great to hear about the highs and lows and get such an honest answer about what it takes to take build the life of your dreams.
 
