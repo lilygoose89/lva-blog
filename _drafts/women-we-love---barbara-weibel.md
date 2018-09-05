@@ -1,5 +1,5 @@
 ---
-title: Women We Love - Barbara Weibel
+title: Women We Love - Barbara of Hole in the Donut
 description: >-
   At Leah von Ahlburg, we celebrate living life on your own terms and we want to
   share the stories of people that inspire us. One such person is Barbara
@@ -25,31 +25,29 @@ _excerpt_separator: <!-- excerpt -->
 layout: post
 ---
 
-Women We Love - Barbara of Hole in the Donut
-
 At Leah von Ahlburg, we celebrate living life on your own terms and we want to share the stories of people that inspire us. One such person is Barbara Weibel, a photographer and travel blogger we met in Chiang Mai, Thailand (which is also where she met our long-nosed friend pictured above).
 
-LVA: So Barbara, tell us a bit about yourself. What’s your background, and what set you on your path?
+**LVA:** *So Barbara, tell us a bit about yourself. What’s your background, and what set you on your path?*
 
-B: I spent 36 years working for a variety of corporations, generally in sales, marketing, or management positions. Every so often I would burn out, leave, and promise myself that I would never return to the corporate rat race.
+**B:** I spent 36 years working for a variety of corporations, generally in sales, marketing, or management positions. Every so often I would burn out, leave, and promise myself that I would never return to the corporate rat race.
 
 During these sabbaticals, I pursued entrepreneurial opportunities that included owning a public relations firm, working with owners of independent businesses to help turn around their failing operations, and at one point I even owned a snow cone kiosk in the largest water park in Puerto Rico. But in the end, I always returned to the corporate world because I was fearful over finances.
 
-<br>&nbsp;
-
 Eventually, someone would make me an offer I thought I couldn't refuse and I was once again on the corporate treadmill of ridiculous work hours, extreme stress, and always, politics, politics, politics.
 
-<br>&nbsp;
+![](/uploads/business.jpeg)
 
-LVA: I think a lot of people can understand the fear and worry that drives that cycle. So what made you decide you needed to start doing things differently?
+**LVA:** *I think a lot of people can understand the fear and worry that drives that cycle. So what made you decide you needed to start doing things differently?*
 
-B: Deep inside, I think I'd always known I wasn't being true to myself, but I was caught in a trap. From the moment my uncle gave me an old Leica camera with ground glass lenses at age 11, I wanted to be a photographer. My father also had a National Geographic subscription, and I would rush home from school, sit cross-legged on the floor, and bury my nose in those magazines.
+**B:** Deep inside, I think I'd always known I wasn't being true to myself, but I was caught in a trap. From the moment my uncle gave me an old Leica camera with ground glass lenses at age 11, I wanted to be a photographer. My father also had a National Geographic subscription, and I would rush home from school, sit cross-legged on the floor, and bury my nose in those magazines.
+
+> "From the moment my uncle gave me an old Leica camera with ground glass lenses at age 11, I wanted to be a photographer."
 
 My parents, however, expected me to graduate college and become a professional. Turns out I hated college and I left before the end of the first semester. I quickly got a job though, and took on financial responsibilities like rent, utilities, transportation and the dream faded into the background. I spent the next 36 years becoming a successful businesswoman, but I was miserable and I had no direction besides work.
 
 Around 2001, my health began to decline. Unable to determine what was wrong with me, doctors said I had too much stress in my life. By the time I was diagnosed with Lyme disease, my health had seriously deteriorated. As I lay in my sickbed, I took a hard look at my life and asked some tough questions. Memories of what I had wanted as a child came roaring back. I promised myself that if I could recover, I would pursue my true passions of travel, photography, and writing. A year later I did just that.
 
-<br>&nbsp;
+![leica camera](/uploads/leica.jpeg "Barbara's first camera was a Leica like this one.")
 
 LVA: That’s an incredible leap to go from battling for your health to braving the world. Not everyone would have the fortitude to do that. Do you have any advice for others who are scared to make the leap?
 
@@ -85,4 +83,4 @@ B: I strive to remain entirely present and mindful in every moment of my life. I
 
 LVA: Thanks for your time and your candor Barbara! It’s great to hear about the highs and lows and get such an honest answer about what it takes to take build the life of your dreams.
 
-You can read more about Barbara’s story and check out her travel photography at holeinthedonut.com.
+You can read more about Barbara’s story and check out her travel photography at [holeinthedonut.com](https://holeinthedonut.com/){: target="_blank"}.
