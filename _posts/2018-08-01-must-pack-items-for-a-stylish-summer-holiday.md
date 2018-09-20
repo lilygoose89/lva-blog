@@ -1,5 +1,5 @@
 ---
-title: Must Pack Items for a Stylish Summer Holiday
+title: Must-Pack Items for a Stylish Summer Holiday
 description: >-
   Your taste and your destination may differ, but every woman can agree that
   these are the essential must-pack items for a stylish summer holiday.
