@@ -9,6 +9,7 @@ image-alt: >-
   barbara weibel | white-haired woman poses with an asian elephant at a
   sanctuary in thailand
 author: Lily Bruns
+date: 09/01/2018
 tags:
   - Women We Love
   - Personal Style
