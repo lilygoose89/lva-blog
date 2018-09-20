@@ -67,8 +67,8 @@ This summer, we’ve seen interesting new takes on the sandal, with beaded embel
 
 Far be it for us to dictate what you will and will not wear though! Whether you prefer a simple thong flip-flop or you’re ready to try one of this summer’s more daring sandal trends, be sure to pack a pair - or five! - for your next beach holiday.
 
-&nbsp;
+ 
 
 Of course, you should probably pack something to wear for cocktail hour and an outfit for sightseeing, not to mention what you’ll wear on the journey itself. When getting ready for your next summer vacation though, you don’t need anything more than these four items for a great day at the beach.
 
-<br>&nbsp;
+<br>
