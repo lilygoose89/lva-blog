@@ -6,7 +6,7 @@ description: >-
 image: /uploads/womanonthebeach.jpg
 image-alt: woman wearing a hat and sunglasses smiling at the beach
 author: Lily Bruns
-date: 2018-06-01 00:00:00
+date: 2018-08-01 00:00:00
 tags:
   - Women We Love
   - Personal Style
