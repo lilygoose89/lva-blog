@@ -232,15 +232,15 @@ footer {
   background-color: #707070;
 }
 footer h3 {
-  color: #f5f5f5;
+  color: white;
   font-weight: 200;
 }
 footer p {
-  color: #f5f5f5;
+  color: white;
   font-size: 0.75em;
 }
 footer a {
-  color: #f5f5f5;
+  color: white !important;
   text-decoration: none;
 }
 footer a:hover, a:focus {
