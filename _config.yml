@@ -6,6 +6,7 @@ collections:
 gems:
   - jekyll-archives
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 jekyll-archives:
   enabled: 'all'
@@ -14,3 +15,14 @@ jekyll-archives:
     year: '/archives/year/:year/'
     month: '/archives/month/:year-:month/'
     tag: '/archives/tag/:name/'
+
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /siteicon.png
+description: Blog | Leah von Ahlburg Collection
+author:
+  name: Leah von Ahlburg
+  email: info@leahvonahlburg.com
+social:
+  name: Leah von Ahlburg
+  links:
+    - blog.leahvonahlburg.com
