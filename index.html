@@ -6,7 +6,7 @@ keywords: leah von ahlburg collection
 ---
 {% for posts in site.posts limit:1 %}
 <header class="header-img text-center" style="background-image: url('{{posts.image}}')">
-  <div class="margin-top-m text-center-mobile">
+  <div class="margin-top-l text-center-mobile">
     <h1 class="text-white text-shadow text-extra-large">Leah von Ahlburg | Blog</h1>
     <h3 class="text-yellow text-shadow text-large">News, Updates and Inspiration</h3>
   </div>
@@ -14,7 +14,7 @@ keywords: leah von ahlburg collection
     <div class="pad-all-m pad-top-s">
       <a href="{{posts.url}}"><h1>{{posts.title}}</h1></a>
       <h6>Published {{posts.date | date: '%B %d, %Y'}}</h6>
-      <a href="#post"><i class="fa fa-angle-double-down icon-large text-yellow" aria-hidden="true"></i></a>
+      <!-- <a href="#post"><i class="fa fa-angle-double-down icon-large text-yellow" aria-hidden="true"></i></a> -->
     </div>
   </div>
 </header>
@@ -50,18 +50,10 @@ keywords: leah von ahlburg collection
     {% endfor %}
   </div>
 </section>
-<section>
-  <div class="grid-spaceBetween-bottom flowers-behind">
-    <div class="col-3_md-5_sm-6 text-left">
-      <img src="/images/overview-before-footer-flower.jpg"/>
-    </div>
-    <div class="col-3 text-right">
-      <img src="/images/overview-before-footer-flower2.jpg"/>
-    </div>
-  </div>
-  <div class="signup-above">
-    <div class="signup-container">
-      <h2 class="text-center">Join our tribe</h2>
+<section class="pad-all-s">
+  <div class="grid-middle-center">
+    <div class="col-6_md-8_sm-10">
+      <h2 class="text-center">JOIN OUR WORLD</h2>
       <p class="strong pad-bottom-s text-center">
           Get inspired by our creators and receive the latest style updates and special promotions, straight in your inbox.
       </p>

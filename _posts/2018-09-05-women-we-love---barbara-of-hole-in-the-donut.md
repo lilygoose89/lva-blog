@@ -85,7 +85,7 @@ This drove home the truth of the proverb that money can't buy happiness. I now k
 
 **B:** I strive to remain entirely present and mindful in every moment of my life. I believe that most people are good, and that there is way too much fear of those who are seen as "others." I believe that the better we get to know one another, the less likely we'll to want to kill one another. I try to live without judgment and accept every person unconditionally. I don't always entirely succeed, but that's because I'm human. The point is that I try - always.
 
-> " I try to live without judgment and accept every person unconditionally. I don't always entirely succeed, but that's because I'm human. The point is that I try - always."<br>– Barbara Weibel
+> "I try to live without judgment and accept every person unconditionally. I don't always entirely succeed, but that's because I'm human. The point is that I try - always."<br>– Barbara Weibel
 
 LVA: Thanks for your time and your candor Barbara! It’s great to hear about the highs and lows and get such an honest answer about what it takes to take build the life of your dreams.
 
