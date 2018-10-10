@@ -1,26 +1,26 @@
 ---
 title: 'Shopping and Dressing in Your 30s, 40s, 50s and Above'
 description: >-
-  At Leah von Ahlburg, we celebrate living life on your own terms and we want to
-  share the stories of people that inspire us. One such person is Barbara
-  Weibel, a photographer and travel blogger we met in Chiang Mai, Thailand.
+  We wouldn’t dare dish out fashion rules, after all, style comes from knowing
+  and celebrating your inner self. As a team of women aged from under thirty to
+  over sixty though, we have collectively come to a few fashion realizations
+  over the years. Though we each follow our own path and experience different
+  journeys, there are a few milestones most women have in common and some style
+  mantras we can share.
 image: /uploads/fabulous-fifties.png
-image-alt: >-
-  barbara weibel | white-haired woman poses with an asian elephant at a
-  sanctuary in thailand
+image-alt: blonde woman in floral dress and scarf against green grassy background
 author:
 tags:
-  - Women We Love
   - Personal Style
-  - Travel
-  - Guest
-  - Interview
-  - Lifestyle
+  - Style
+  - Style Guide
+  - What to Wear
+  - Style at Any Age
+  - trends
 keywords: >-
-  Leah von Ahlburg Collection, inspiring women, women who travel, style and
-  lifestyle, barbara weibel, hole in the donut, transitioning from corporate
-  life, sell everything and travel, truly happy doing what you love, visualize
-  the life you want
+  Leah von Ahlburg Collection, shopping and dressing in your 30s 40s 50s and
+  above, womens style, what to wear at 40, what to wear at 50, what to wear at
+  60, age appropriate womens style
 _excerpt_separator: <!-- excerpt -->
 layout: post
 ---
@@ -63,6 +63,6 @@ That’s right, we said it. There is nothing, we repeat, nothing, sexier than a 
 
 Tank tops that - gasp! - expose your arms? Short skirts? Tight pants? There’s nothing off limits. Just because you’re getting on in years, doesn’t mean you’ve lost an ounce of cool or sass. So whatever it is that makes you feel vivacious and confident, double-down on that. The world of fashion and media may want to pretend like you’re invisible now, but you didn’t spend all this time living, loving, and learning just to go hide in a corner. Be visible, be proud, and when it comes to what you wear, express yourself!
 
-&nbsp;
+ 
 
 How has your style evolved over the years? Are there pieces in your closet older than your children, or are you like Madonna, reinventing yourself every few years? Our founders found a new lease on life in their 40s and 60s respectively, so at Leah von Ahlburg Collection, we think there’s no limit to what women can do, how they can change, or what they can wear.
