@@ -7,19 +7,17 @@ description: >-
   of that summer wardrobe, here are five fantastic beach destinations to travel
   to this autumn you might not have considered.
 image: /uploads/beach.jpeg
-image-alt: blonde woman in floral dress and scarf against green grassy background
+image-alt: woman in white dress walking on a sunny beach
 author:
 tags:
-  - Personal Style
-  - Style
-  - Style Guide
-  - What to Wear
-  - Style at Any Age
-  - trends
+  - Beach
+  - Travel Guide
+  - resort fashion
+  - summer fashion
+  - Travel
 keywords: >-
-  Leah von Ahlburg Collection, shopping and dressing in your 30s 40s 50s and
-  above, womens style, what to wear at 40, what to wear at 50, what to wear at
-  60, age appropriate womens style
+  Leah von Ahlburg Collection, best beaches winter 2018, where to escape winter,
+  best winter beach destinations
 _excerpt_separator: <!-- excerpt -->
 layout: post
 ---
@@ -76,6 +74,6 @@ While Australia’s beaches are world-class, for a truly stunning beach vacation
 
 Expect sunny skies and temperatures in the mid to upper 80s when visiting between October to January, though the weather here is beach-worthy year round. Enjoy the epitome of tropical beach life while staying in Airlie Beach, the main hub of Whitsundays, or luxe it up at one of the many resorts on the scattered islands.
 
-&nbsp;
+ 
 
 Just because the year draws to a close and the weather demands extra layers at home doesn’t mean the time for beach holidays is over. It’s always summer somewhere, and your perfect tropical holiday awaits at these and countless other stunning destinations.
